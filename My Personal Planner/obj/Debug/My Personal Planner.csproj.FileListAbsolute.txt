@@ -1,0 +1,12 @@
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\My Personal Planner\My Personal Planner\bin\My Personal Planner.dll.config
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\My Personal Planner\My Personal Planner\bin\My Personal Planner.dll
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\My Personal Planner\My Personal Planner\bin\My Personal Planner.pdb
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\My Personal Planner\My Personal Planner\obj\Debug\My Personal Planner.csprojResolveAssemblyReference.cache
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\My Personal Planner\My Personal Planner\obj\Debug\My Personal Planner.dll
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\My Personal Planner\My Personal Planner\obj\Debug\My Personal Planner.pdb
+C:\Users\moriam\Documents\THE CODESSES\My Personal Planner\My Personal Planner\bin\My Personal Planner.dll.config
+C:\Users\moriam\Documents\THE CODESSES\My Personal Planner\My Personal Planner\bin\My Personal Planner.dll
+C:\Users\moriam\Documents\THE CODESSES\My Personal Planner\My Personal Planner\bin\My Personal Planner.pdb
+C:\Users\moriam\Documents\THE CODESSES\My Personal Planner\My Personal Planner\obj\Debug\My Personal Planner.csprojResolveAssemblyReference.cache
+C:\Users\moriam\Documents\THE CODESSES\My Personal Planner\My Personal Planner\obj\Debug\My Personal Planner.dll
+C:\Users\moriam\Documents\THE CODESSES\My Personal Planner\My Personal Planner\obj\Debug\My Personal Planner.pdb
